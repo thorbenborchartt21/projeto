@@ -1,0 +1,299 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet">
+    <title>Bootstrap Example</title>
+  </head>
+  <body>
+ 
+    <!-- Example Code -->
+ 
+    <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
+        <div class="container-fluid">
+          <a class="navbar-brand" href="#"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">GTA</font></font></a>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Alternar de navegação">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav me-auto mb-2 mb-md-0">
+              <li class="nav-item">
+                <a class="nav-link active" aria-current="page" href="#"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">historia</font></font></a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> download jogos </font></font></a>
+              </li>
+             
+            </ul>
+            <form class="d-flex" role="search">
+              <input class="form-control me-2" type="search" placeholder="Procurar" aria-label="Procurar">
+              <button class="btn btn-outline-success" type="submit"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Procurar</font></font></button>
+            </form>
+          </div>
+        </div>
+      </nav>
+      <br>
+      <br>
+      <br>
+      
+    <div id="carouselExampleCaptions" class="carousel slide" data-bs-ride="false">
+      <div class="carousel-indicators">
+        <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+        <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="1" aria-label="Slide 2"></button>
+        <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="2" aria-label="Slide 3"></button>
+      </div>
+      <div class="carousel-inner">
+        <div class="carousel-item active">
+          <svg class="bd-placeholder-img bd-placeholder-img-lg d-block w-100" width="800" height="400" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Espaço reservado: primeiro slide" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#777"></rect><text x="50%" y="50%" fill="#555" dy=".3em">First slide</text></svg>
+    
+          <div class="carousel-caption d-none d-md-block">
+            <h5><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Rótulo do primeiro slide</font></font></h5>
+            <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Algum conteúdo de espaço reservado representativo para o primeiro slide.</font></font></p>
+          </div>
+        </div>
+        <div class="carousel-item">
+          <svg class="bd-placeholder-img bd-placeholder-img-lg d-block w-100" width="800" height="400" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Second slide" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#666"></rect><text x="50%" y="50%" fill="#444" dy=".3em">Second slide</text></svg>
+    
+          <div class="carousel-caption d-none d-md-block">
+            <h5>Second slide label</h5>
+            <p>Some representative placeholder content for the second slide.</p>
+          </div>
+        </div>
+        <div class="carousel-item">
+          <svg class="bd-placeholder-img bd-placeholder-img-lg d-block w-100" width="800" height="400" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Third slide" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#555"></rect><text x="50%" y="50%" fill="#333" dy=".3em">Third slide</text></svg>
+    
+          <div class="carousel-caption d-none d-md-block">
+            <h5>Third slide label</h5>
+            <p>Some representative placeholder content for the third slide.</p>
+          </div>
+        </div>
+      </div>
+      <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="visually-hidden"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Anterior</font></font></span>
+      </button>
+      <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="visually-hidden"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Próximo</font></font></span>
+      </button>
+    </div>
+    
+    <!-- End Example Code -->
+ 
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js"></script>
+ 
+  
+    
+    
+  </body>
+ 
+  <br>
+  <hr class="featurette-divider">
+  <div class="row featurette">
+    <div class="col-md-7 order-md-2 d-flex flex-column align-items-center ">
+      <h2 class="featurette-heading fw-normal lh-1"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">GTA 1 – Grand Theft Auto  </font></font><span class="text-muted"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">(1997)</font></font></span></h2>
+      <p class="lead"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Outro recurso? </font><font style="vertical-align: inherit;">É claro. </font><font style="vertical-align: inherit;">Mais conteúdo de espaço reservado aqui para dar uma ideia de como esse layout funcionaria com algum conteúdo real do mundo real.</font></font></p>
+    
+      <p><a class="btn btn-secondary" href="#"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> </font></font></a></p>    </div>
+    <div class="col-md-5 order-md-1 d-flex flex-column align-items-center">
+        <img src="gta1.png" height="300px" width="500px" class="rounded float-start" alt="...">
+      </div>
+    </div>
+ 
+    <hr class="featurette-divider">
+ 
+<br>
+ 
+ 
+ 
+<hr class="featurette-divider">
+  <div class="row featurette">
+    <div class="col-md-7 order-md-2 d-flex flex-column align-items-center ">
+      <h2 class="featurette-heading fw-normal lh-1"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">GTA 2 – Grand Theft Auto 2 </font></font><span class="text-muted"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">(1999)</font></font></span></h2>
+      <p class="lead"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Outro recurso? </font><font style="vertical-align: inherit;">É claro. </font><font style="vertical-align: inherit;">Mais conteúdo de espaço reservado aqui para dar uma ideia de como esse layout funcionaria com algum conteúdo real do mundo real.</font></font></p>
+    
+      <p><a class="btn btn-secondary" href="#"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> </font></font></a></p>    </div>
+    <div class="col-md-5 order-md-1 d-flex flex-column align-items-center">
+        <img src="GTA2.png" height="300px" width="500px" class="rounded float-start" alt="...">
+ 
+ 
+      </div>
+    </div>
+ 
+    <hr class="featurette-divider">
+ 
+ 
+ 
+    <br>
+ 
+ 
+ 
+ 
+    <hr class="featurette-divider">
+  <div class="row featurette">
+    <div class="col-md-7 order-md-2 d-flex flex-column align-items-center">
+      <h2 class="featurette-heading fw-normal lh-1"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">GTA III </font></font><span class="text-muted"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">(2001)</font></font></span></h2>
+      <p class="lead"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Outro recurso? </font><font style="vertical-align: inherit;">É claro. </font><font style="vertical-align: inherit;">Mais conteúdo de espaço reservado aqui para dar uma ideia de como esse layout funcionaria com algum conteúdo real do mundo real.</font></font></p>
+      <p><a class="btn btn-secondary" href="#"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> </font></font></a></p>
+    </div>
+    <div class="col-md-5 order-md-1 d-flex flex-column align-items-center">
+        <img src="GTA3.png" height="300px" width="500px" class="rounded float-start" alt="...">
+ 
+      </div>
+    </div>
+ 
+    <hr class="featurette-divider">
+ 
+ 
+ 
+    <br>
+    <hr class="featurette-divider">
+    <div class="row featurette">
+      <div class="col-md-7 order-md-2 d-flex flex-column align-items-center ">
+        <h2 class="featurette-heading fw-normal lh-1"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">GTA Vice City </font></font><span class="text-muted"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">(2002)</font></font></span></h2>
+        <p class="lead"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Outro recurso? </font><font style="vertical-align: inherit;">É claro. </font><font style="vertical-align: inherit;">Mais conteúdo de espaço reservado aqui para dar uma ideia de como esse layout funcionaria com algum conteúdo real do mundo real.</font></font></p>
+      
+        <p><a class="btn btn-secondary" href="#"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> </font></font></a></p>    </div>
+      <div class="col-md-5 order-md-1 d-flex flex-column align-items-center">
+        <img src="GTA4.png" height="300px" width="500px" class="rounded float-start" alt="...">
+   
+        </div>
+      </div>
+  
+      <hr class="featurette-divider">
+
+
+
+      <hr class="featurette-divider">
+    <div class="row featurette">
+      <div class="col-md-7 order-md-2 d-flex flex-column align-items-center ">
+        <h2 class="featurette-heading fw-normal lh-1"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">GTA Advanced </font></font><span class="text-muted"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">(2002)</font></font></span></h2>
+        <p class="lead"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Outro recurso? </font><font style="vertical-align: inherit;">É claro. </font><font style="vertical-align: inherit;">Mais conteúdo de espaço reservado aqui para dar uma ideia de como esse layout funcionaria com algum conteúdo real do mundo real.</font></font></p>
+      
+        <p><a class="btn btn-secondary" href="#"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> </font></font></a></p>    </div>
+      <div class="col-md-5 order-md-1 d-flex flex-column align-items-center">
+
+        <img src="GTA5.png" height="300px" width="500px" class="rounded float-start" alt="...">
+        
+    </div>
+      </div>
+  
+      <hr class="featurette-divider">
+
+      <hr class="featurette-divider">
+    <div class="row featurette">
+      <div class="col-md-7 order-md-2 d-flex flex-column align-items-center ">
+        <h2 class="featurette-heading fw-normal lh-1"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">GTA San Andreas </font></font><span class="text-muted"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">(2004)</font></font></span></h2>
+        <p class="lead"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Outro recurso? </font><font style="vertical-align: inherit;">É claro. </font><font style="vertical-align: inherit;">Mais conteúdo de espaço reservado aqui para dar uma ideia de como esse layout funcionaria com algum conteúdo real do mundo real.</font></font></p>
+      
+        <p><a class="btn btn-secondary" href="#"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> </font></font></a></p>    </div>
+      <div class="col-md-5 order-md-1 d-flex flex-column align-items-center">
+        <img src="GTA6.png" height="300px" width="500px" class="rounded float-start" alt="...">
+   
+        </div>
+      </div>
+  
+      <hr class="featurette-divider">
+
+
+
+
+      <hr class="featurette-divider">
+    <div class="row featurette">
+      <div class="col-md-7 order-md-2 d-flex flex-column align-items-center ">
+        <h2 class="featurette-heading fw-normal lh-1"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">GTA San Andreas </font></font><span class="text-muted"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">(2004)</font></font></span></h2>
+        <p class="lead"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Outro recurso? </font><font style="vertical-align: inherit;">É claro. </font><font style="vertical-align: inherit;">Mais conteúdo de espaço reservado aqui para dar uma ideia de como esse layout funcionaria com algum conteúdo real do mundo real.</font></font></p>
+      
+        <p><a class="btn btn-secondary" href="#"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> </font></font></a></p>    </div>
+      <div class="col-md-5 order-md-1 d-flex flex-column align-items-center">
+        <img src="GTA7.png" height="300px" width="500px" class="rounded float-start" alt="...">
+   
+        </div>
+      </div>
+  
+      <hr class="featurette-divider">
+
+
+
+      <hr class="featurette-divider">
+    <div class="row featurette">
+      <div class="col-md-7 order-md-2 d-flex flex-column align-items-center ">
+        <h2 class="featurette-heading fw-normal lh-1"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ah sim, é tão bom. </font></font><span class="text-muted"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">(2006)</font></font></span></h2>
+        <p class="lead"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Outro recurso? </font><font style="vertical-align: inherit;">É claro. </font><font style="vertical-align: inherit;">Mais conteúdo de espaço reservado aqui para dar uma ideia de como esse layout funcionaria com algum conteúdo real do mundo real.</font></font></p>
+      
+        <p><a class="btn btn-secondary" href="#"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> </font></font></a></p>    </div>
+      <div class="col-md-5 order-md-1 d-flex flex-column align-items-center">
+        <img src="GTA8.png" height="300px" width="500px" class="rounded float-start" alt="...">
+   
+        </div>
+      </div>
+  
+      <hr class="featurette-divider">
+
+
+
+
+      <hr class="featurette-divider">
+    <div class="row featurette">
+      <div class="col-md-7 order-md-2 d-flex flex-column align-items-center ">
+        <h2 class="featurette-heading fw-normal lh-1"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">GTA IV  </font></font><span class="text-muted"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> (2008)</font></font></span></h2>
+        <p class="lead"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Outro recurso? </font><font style="vertical-align: inherit;">É claro. </font><font style="vertical-align: inherit;">Mais conteúdo de espaço reservado aqui para dar uma ideia de como esse layout funcionaria com algum conteúdo real do mundo real.</font></font></p>
+      
+        <p><a class="btn btn-secondary" href="#"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> </font></font></a></p>    </div>
+      <div class="col-md-5 order-md-1 d-flex flex-column align-items-center">
+        <img src="GTA9.png" height="300px" width="500px" class="rounded float-start" alt="...">
+   
+        </div>
+      </div>
+  
+      <hr class="featurette-divider">
+
+
+
+      <hr class="featurette-divider">
+    <div class="row featurette">
+      <div class="col-md-7 order-md-2 d-flex flex-column align-items-center ">
+        <h2 class="featurette-heading fw-normal lh-1"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">GTA Chinatown Wars </font></font><span class="text-muted"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">(2009)</font></font></span></h2>
+        <p class="lead"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Outro recurso? </font><font style="vertical-align: inherit;">É claro. </font><font style="vertical-align: inherit;">Mais conteúdo de espaço reservado aqui para dar uma ideia de como esse layout funcionaria com algum conteúdo real do mundo real.</font></font></p>
+      
+        <p><a class="btn btn-secondary" href="#"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> </font></font></a></p>    </div>
+      <div class="col-md-5 order-md-1 d-flex flex-column align-items-center">
+        <img src="GTA10.png" height="300px" width="500px" class="rounded float-start" alt="...">
+   
+        </div>
+    </div>
+    <hr class="featurette-divider">
+      
+    <hr class="featurette-divider">
+    <div class="row featurette">
+      <div class="col-md-7 order-md-2 d-flex flex-column align-items-center ">
+        <h2 class="featurette-heading fw-normal lh-1"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">GTA V </font></font><span class="text-muted"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">(2013)</font></font></span></h2>
+        <p class="lead"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Outro recurso? </font><font style="vertical-align: inherit;">É claro. </font><font style="vertical-align: inherit;">Mais conteúdo de espaço reservado aqui para dar uma ideia de como esse layout funcionaria com algum conteúdo real do mundo real.</font></font></p>
+      
+        <p><a class="btn btn-secondary" href="#"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> </font></font></a></p>    </div>
+      <div class="col-md-5 order-md-1 d-flex flex-column align-items-center">
+        <img src="GTA11.png" height="300px" width="500px" class="rounded float-start" alt="...">
+   
+        </div>
+    </div>
+     
+    <hr class="featurette-divider">
+      
+    <hr class="featurette-divider">
+    <div class="row featurette">
+      <div class="col-md-7 order-md-2 d-flex flex-column align-items-center ">
+          <div>
+             
+          </div>
+        <h2 class="featurette-heading fw-normal lh-1"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">GTA VI </font></font><span class="text-muted"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">(SEM DATA)</font></font></span></h2>
+        <p class="lead"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Outro recurso? </font><font style="vertical-align: inherit;">É claro. </font><font style="vertical-align: inherit;">Mais conteúdo de espaço reservado aqui para dar uma ideia de como esse layout funcionaria com algum conteúdo real do mundo real.</font></font></p>
+      
+        <p><a class="btn btn-secondary" href="#"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> </font></font></a></p>    </div>
+      <div class="col-md-5 order-md-1 d-flex flex-column align-items-center">
+        <img src="GTA12.png" height="300px" width="500px" class="rounded float-start" alt="...">
+   
+        </div>
+    </div>
+</html>
+

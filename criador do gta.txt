@@ -1,0 +1,27 @@
+<hr class="featurette-divider">
+ 
+      <br>
+      <div class="container marketing">
+      <div class="row">
+        <div class="col-lg-4 d-flex flex-column align-items-center">
+            <img src="gtacriador.jpg" height="200px" width="300px" class="rounded float-start" alt="...">
+
+          <h2 class="fw-normal"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Dan Houser</font></font></h2>
+          <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">(Nascido em 1974) é um produtor de jogos, co-fundador e atual vice presidente da Rockstar Games (Juntamente com seu irmão, Sam Houser) e vice presidente criativo. É também o escritor dos diversos títulos da série Grand Theft Auto, com exceção de apenas um jogo da era 3D. Dan, inclusive, dublou alguns personagens "menores" na série, como o Freddy, que aparece na rádio Chatterbox FM no Grand Theft Auto III e na K-CHAT em Grand Theft Auto: Vice City. </font><font style="vertical-align: inherit;">Esta é a primeira coluna.</font></font></p>
+          <p><a class="btn btn-secondary" href="#"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> </font></font></a></p>
+        </div><!-- /.col-lg-4 -->
+        <div class="col-lg-4 d-flex flex-column align-items-center">
+            <img src="2criadorgta.jpg" height="200px" width="300px" class="rounded float-start" alt="...">
+
+          <h2 class="fw-normal"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Sam Houser</font></font></h2>
+          <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> (Nascido em 1971) é um produtor de jogos eletrônicos. É co-fundador e presidente da Rockstar Games e uma das forças criativas por trás de jogos como a franquia Grand Theft Auto, sendo produtor desde o terceiro jogo. Ele é responsável por levar GTA para a era 3D, criando cidades realísticas em engines 3D e transformando a série em enormes lucros durante a sexta geração de consoles.</font><font style="vertical-align: inherit;">Desta vez, passamos para a segunda coluna.</font></font></p>
+          <p><a class="btn btn-secondary" href="#"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> </font></font></a></p>
+        </div><!-- /.col-lg-4 -->
+        
+        <div class="col-lg-4 d-flex flex-column align-items-center">
+            <img src="rockstar.jpg" height="200px" width="300px" class="rounded float-start" alt="...">
+    
+            <h2 class="fw-normal"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">RockStar Games</font></font></h2>
+            <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">É  uma produtora e publicadora de jogos eletrônicos fundada em 1994. Conhecida por ter criado grandes nomes dos jogos eletrônicos, a Rockstar é criadora das famosas séries Grand Theft Auto, Red Dead, Midnight Club, Bully, Max Payne e Manhunt. Sua sede fica em New York (Nova Iorque), mas é formada também por vários estúdios que foram comprados, renomeados ou então construídos pela própria empresa </font><font style="vertical-align: inherit;">Desta vez, passamos para a segunda coluna.</font></font></p>
+            <p><a class="btn btn-secondary" href="#"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"></font></font></a></p>
+          </div><!-- /.col-lg-4 -->
